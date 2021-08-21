@@ -16,3 +16,7 @@ for that gstin and store them in Firebase Firestore.
 
 
 >[Link to Apps Github Repository](https://github.com/rishabhy22/Gst_Screens_Assignment)
+
+<br/>
+
+> [Link to Android apks of the App](https://drive.google.com/drive/folders/170eTs9ULHHNfTnsx0bbFibi40J2gwigR)
